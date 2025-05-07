@@ -17,3 +17,6 @@ dist/
 
 # Environment files
 .env
+
+# Ignore geojson files
+backend/api/geojson/*.geojson
